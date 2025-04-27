@@ -1,6 +1,5 @@
 # motor_sizing_app
 Motor sizing calculator for engineers.
-![Uploading git hub icon.png…]()
 
 
 
