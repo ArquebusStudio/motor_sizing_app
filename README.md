@@ -1,5 +1,8 @@
 # motor_sizing_app
 Motor sizing calculator for engineers.
+![Uploading git hub icon.png…]()
+
+
 
 Motor Sizing is a handy engineering tool designed to help you calculate and select the right motor for your automation system.
 
